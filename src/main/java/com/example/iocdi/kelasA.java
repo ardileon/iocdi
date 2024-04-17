@@ -1,5 +1,5 @@
 package com.example.iocdi;
 
-public class kelasA {
-    
+public class KelasA {
+
 }
