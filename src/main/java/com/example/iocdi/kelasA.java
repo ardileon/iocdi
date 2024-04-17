@@ -4,6 +4,8 @@ import org.springframework.stereotype.Component;
 
 import jakarta.annotation.PostConstruct;
 
+// gabungan antara beans, ioc dan di
+
 @Component
 public class KelasA {
 
